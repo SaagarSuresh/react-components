@@ -1,4 +1,5 @@
 import './App.css'
+import GreetingMessage from './components/GreetingMessage/GreetingMessage'
 import SimpleCounter from './components/SimpleCounter/SimpleCounter'
 import ToggleButton from './components/ToggleButton/ToggleButton'
 
@@ -8,7 +9,8 @@ function App() {
   return (
     <>
         {/* <SimpleCounter/> */}
-        <ToggleButton />
+        {/* <ToggleButton /> */}
+        <GreetingMessage />
     </>
   )
 }
