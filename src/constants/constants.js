@@ -1,0 +1,21 @@
+export const poem_array = [
+    "In the world of code, where lines unfold,",
+    "Lives Rakshit, a developer bold.",
+    "Tesla's hum and circuits' song,",
+    "In software's dance, he belongs.",
+    "",
+    "With Ronaldo's grace, a fan's devotion,",
+    "Soccer's legend, in every motion.",
+    "On the pitch, where dreams take flight,",
+    "Rakshit cheers, in the day and night.",
+    "",
+    "Code and goals, a dual devotion,",
+    "In software realms and on the pitch's ocean.",
+    "From lines of code to a goal-scoring spree,",
+    "Rakshit's heart beats with technology.",
+    "",
+    "In the world of bytes and a football's grace,",
+    "A friendship with Rakshit, a perfect embrace.",
+    "Tesla's whispers, Ronaldo's fame,",
+    "In this symphony, Rakshit's name."
+]
