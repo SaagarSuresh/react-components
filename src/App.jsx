@@ -1,4 +1,5 @@
 import './App.css'
+import BasicForm from './components/BasicForm/BasicForm'
 import GreetingMessage from './components/GreetingMessage/GreetingMessage'
 import ListDisplay from './components/ListDisplay/ListDisplay'
 import SimpleCounter from './components/SimpleCounter/SimpleCounter'
@@ -13,8 +14,9 @@ function App() {
         {/* <SimpleCounter/> */}
         {/* <ToggleButton /> */}
         {/* <GreetingMessage /> */}
-        <ListDisplay />
+        {/* <ListDisplay /> */}
         {/* <MyComponent /> */}
+        <BasicForm />
     </>
   )
 }
