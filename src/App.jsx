@@ -5,6 +5,7 @@ import ListDisplay from './components/ListDisplay/ListDisplay'
 import RandomQuoteGenerator from './components/RandomQuoteGenerator/RandomQuoteGenerator'
 import SimpleCounter from './components/SimpleCounter/SimpleCounter'
 import MyComponent from './components/Test/Test'
+import ToDoList from './components/ToDoList/ToDoList'
 import ToggleButton from './components/ToggleButton/ToggleButton'
 
 function App() {
@@ -18,7 +19,8 @@ function App() {
         {/* <ListDisplay /> */}
         {/* <MyComponent /> */}
         {/* <BasicForm /> */}
-        <RandomQuoteGenerator />
+        {/* <RandomQuoteGenerator /> */}
+        <ToDoList />
     </>
   )
 }
