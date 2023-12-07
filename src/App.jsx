@@ -2,6 +2,7 @@ import './App.css'
 import BasicForm from './components/BasicForm/BasicForm'
 import GreetingMessage from './components/GreetingMessage/GreetingMessage'
 import ListDisplay from './components/ListDisplay/ListDisplay'
+import PhotoGallery from './components/PhotoGallery/PhotoGallery'
 import RandomQuoteGenerator from './components/RandomQuoteGenerator/RandomQuoteGenerator'
 import SimpleCounter from './components/SimpleCounter/SimpleCounter'
 import StaticWeatherDisplay from './components/StaticWeatherDisplay/StaticWeatherDisplay'
@@ -22,7 +23,8 @@ function App() {
         {/* <BasicForm /> */}
         {/* <RandomQuoteGenerator /> */}
         {/* <ToDoList /> */}
-        <StaticWeatherDisplay />
+        {/* <StaticWeatherDisplay /> */}
+        <PhotoGallery />
     </>
   )
 }
