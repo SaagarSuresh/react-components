@@ -4,6 +4,7 @@ import GreetingMessage from './components/GreetingMessage/GreetingMessage'
 import ListDisplay from './components/ListDisplay/ListDisplay'
 import RandomQuoteGenerator from './components/RandomQuoteGenerator/RandomQuoteGenerator'
 import SimpleCounter from './components/SimpleCounter/SimpleCounter'
+import StaticWeatherDisplay from './components/StaticWeatherDisplay/StaticWeatherDisplay'
 import MyComponent from './components/Test/Test'
 import ToDoList from './components/ToDoList/ToDoList'
 import ToggleButton from './components/ToggleButton/ToggleButton'
@@ -20,7 +21,8 @@ function App() {
         {/* <MyComponent /> */}
         {/* <BasicForm /> */}
         {/* <RandomQuoteGenerator /> */}
-        <ToDoList />
+        {/* <ToDoList /> */}
+        <StaticWeatherDisplay />
     </>
   )
 }
