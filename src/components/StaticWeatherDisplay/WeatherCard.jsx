@@ -21,6 +21,8 @@ const WeatherCard = ({weatherData}) => {
                 <p>Day: {moment().format('dddd')}</p>
                 <p>Date: {moment().format('LL')}</p>
                 <Button className="button" inverted color='blue' circular icon='refresh' onClick={refresh} />
+              
+                
             </Card.Content>
         </Card>
     )
